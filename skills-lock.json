@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "crypto-com-app": {
+      "source": "crypto-com/crypto-agent-trading",
+      "sourceType": "github",
+      "skillPath": "crypto-com-app/SKILL.md",
+      "computedHash": "141bc2244d302a299181ea20d7e028385c8652b01d5289e9d639fad98b78f9e1"
+    }
+  }
+}
